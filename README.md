@@ -1,2 +1,2 @@
-# Test-repo
-This is a second example.
+# Edited test-repo
+It was edited from directly github.
